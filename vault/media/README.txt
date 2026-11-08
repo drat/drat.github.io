@@ -1,0 +1,1 @@
+Place all selected files directly in this folder. No subfolders are required. The Deddy OS interface provides virtual filters.\n

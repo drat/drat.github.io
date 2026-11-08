@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-11-08T05:15:03.561Z",
+  "tracks": [
+    {
+      "name": "Geloraku-(Akusitk)",
+      "file": "Geloraku-(Akusitk).mp3",
+      "ext": ".mp3",
+      "path": "/music/Geloraku-(Akusitk).mp3"
+    },
+    {
+      "name": "Geloraku-(rock)",
+      "file": "Geloraku-(rock).mp3",
+      "ext": ".mp3",
+      "path": "/music/Geloraku-(rock).mp3"
+    },
+    {
+      "name": "Lima Cahaya-(pop)",
+      "file": "Lima Cahaya-(pop).mp3",
+      "ext": ".mp3",
+      "path": "/music/Lima%20Cahaya-(pop).mp3"
+    },
+    {
+      "name": "Malam Natal Kita-(rock)",
+      "file": "Malam Natal Kita-(rock).mp3",
+      "ext": ".mp3",
+      "path": "/music/Malam%20Natal%20Kita-(rock).mp3"
+    },
+    {
+      "name": "Takhta Api-(rock)",
+      "file": "Takhta Api-(rock).mp3",
+      "ext": ".mp3",
+      "path": "/music/Takhta%20Api-(rock).mp3"
+    }
+  ]
+}

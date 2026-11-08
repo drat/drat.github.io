@@ -1,0 +1,1 @@
+Place your original compositions here (.mp3, .wav, .ogg, .m4a). Files are indexed at dev/build startup. The player starts muted/off (not autoplaying); pressing Play chooses a random track.\n

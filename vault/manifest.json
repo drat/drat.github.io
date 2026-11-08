@@ -1,0 +1,315 @@
+{
+  "generatedAt": "2026-11-08T05:15:03.549Z",
+  "areas": {
+    "knowledge": {
+      "research-papers": [
+        {
+          "name": "Membangun Model Bahasa LLM Spesifik Domain",
+          "file": "Membangun Model Bahasa LLM Spesifik Domain.pdf",
+          "path": "/vault/knowledge/research-papers/Membangun Model Bahasa LLM Spesifik Domain.pdf",
+          "folder": "knowledge/research-papers",
+          "ext": ".pdf",
+          "size": 7020219
+        },
+        {
+          "name": "Membedah The Great Sandboxes",
+          "file": "Membedah The Great Sandboxes.pdf",
+          "path": "/vault/knowledge/research-papers/Membedah The Great Sandboxes.pdf",
+          "folder": "knowledge/research-papers",
+          "ext": ".pdf",
+          "size": 6593593
+        }
+      ],
+      "whitepapers": [
+        {
+          "name": "Algoritma_Geo_Time-v1",
+          "file": "Algoritma_Geo_Time-v1.pdf",
+          "path": "/vault/knowledge/whitepapers/Algoritma_Geo_Time-v1.pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 544560
+        },
+        {
+          "name": "BLC 2nd Generation - v3 (1)",
+          "file": "BLC 2nd Generation - v3 (1).pdf",
+          "path": "/vault/knowledge/whitepapers/BLC 2nd Generation - v3 (1).pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 214438
+        },
+        {
+          "name": "Bersatu Melawan Covid-NextGen_TechDoc_V2",
+          "file": "Bersatu Melawan Covid-NextGen_TechDoc_V2.pdf",
+          "path": "/vault/knowledge/whitepapers/Bersatu Melawan Covid-NextGen_TechDoc_V2.pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 10338565
+        },
+        {
+          "name": "Bidang Data IT Satgas Covid-19",
+          "file": "Bidang Data IT Satgas Covid-19.pdf",
+          "path": "/vault/knowledge/whitepapers/Bidang Data IT Satgas Covid-19.pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 1533962
+        },
+        {
+          "name": "Blank Diagram - Page 3",
+          "file": "Blank Diagram - Page 3.pdf",
+          "path": "/vault/knowledge/whitepapers/Blank Diagram - Page 3.pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 483182
+        },
+        {
+          "name": "Lancang-Kuning-Anti-Karhutla-Nusantara-Deddy-Ratnanto",
+          "file": "Lancang-Kuning-Anti-Karhutla-Nusantara-Deddy-Ratnanto.pdf",
+          "path": "/vault/knowledge/whitepapers/Lancang-Kuning-Anti-Karhutla-Nusantara-Deddy-Ratnanto.pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 4241166
+        },
+        {
+          "name": "paparan_teknologi_pantau-COVID-19.pptx",
+          "file": "paparan_teknologi_pantau-COVID-19.pptx.pdf",
+          "path": "/vault/knowledge/whitepapers/paparan_teknologi_pantau-COVID-19.pptx.pdf",
+          "folder": "knowledge/whitepapers",
+          "ext": ".pdf",
+          "size": 405474
+        }
+      ],
+      "publications": [
+        {
+          "name": "Dekonstruksi Pemikiran - DIALOG VIRTUAL DENGAN PRABOWO SUBIANTO",
+          "file": "Dekonstruksi Pemikiran - DIALOG VIRTUAL DENGAN PRABOWO SUBIANTO.pdf",
+          "path": "/vault/knowledge/publications/Dekonstruksi Pemikiran - DIALOG VIRTUAL DENGAN PRABOWO SUBIANTO.pdf",
+          "folder": "knowledge/publications",
+          "ext": ".pdf",
+          "size": 23461673
+        },
+        {
+          "name": "Dekonstruksi-Pemikiran-DIALOG-VIRTUAL-DENGAN-GANJAR-PRANOWO-AI",
+          "file": "Dekonstruksi-Pemikiran-DIALOG-VIRTUAL-DENGAN-GANJAR-PRANOWO-AI.pdf",
+          "path": "/vault/knowledge/publications/Dekonstruksi-Pemikiran-DIALOG-VIRTUAL-DENGAN-GANJAR-PRANOWO-AI.pdf",
+          "folder": "knowledge/publications",
+          "ext": ".pdf",
+          "size": 47008845
+        },
+        {
+          "name": "Era Internet Sintetis",
+          "file": "Era Internet Sintetis.pdf",
+          "path": "/vault/knowledge/publications/Era Internet Sintetis.pdf",
+          "folder": "knowledge/publications",
+          "ext": ".pdf",
+          "size": 4529082
+        },
+        {
+          "name": "Kitab-Suci-Semesta-Digital",
+          "file": "Kitab-Suci-Semesta-Digital.pdf",
+          "path": "/vault/knowledge/publications/Kitab-Suci-Semesta-Digital.pdf",
+          "folder": "knowledge/publications",
+          "ext": ".pdf",
+          "size": 2856712
+        },
+        {
+          "name": "Rahasia di Balik LLM",
+          "file": "Rahasia di Balik LLM.pdf",
+          "path": "/vault/knowledge/publications/Rahasia di Balik LLM.pdf",
+          "folder": "knowledge/publications",
+          "ext": ".pdf",
+          "size": 15327830
+        },
+        {
+          "name": "SMS Senyap-Arsitektur Eksploitasi SS7",
+          "file": "SMS Senyap-Arsitektur Eksploitasi SS7.pdf",
+          "path": "/vault/knowledge/publications/SMS Senyap-Arsitektur Eksploitasi SS7.pdf",
+          "folder": "knowledge/publications",
+          "ext": ".pdf",
+          "size": 6898798
+        }
+      ],
+      "technical-notes": [
+        {
+          "name": "Evolusi & Adaptasi Paradigma Kosmologi Terestrial Pasca-Artemis II & Era AI - Deddy Ratnanto 2026 (1)",
+          "file": "Evolusi & Adaptasi Paradigma Kosmologi Terestrial Pasca-Artemis II & Era AI - Deddy Ratnanto 2026 (1).pdf",
+          "path": "/vault/knowledge/technical-notes/Evolusi & Adaptasi Paradigma Kosmologi Terestrial Pasca-Artemis II & Era AI - Deddy Ratnanto 2026 (1).pdf",
+          "folder": "knowledge/technical-notes",
+          "ext": ".pdf",
+          "size": 27520588
+        },
+        {
+          "name": "Rencana-Operasi-Penanggulangan-Covid-19",
+          "file": "Rencana-Operasi-Penanggulangan-Covid-19.pdf",
+          "path": "/vault/knowledge/technical-notes/Rencana-Operasi-Penanggulangan-Covid-19.pdf",
+          "folder": "knowledge/technical-notes",
+          "ext": ".pdf",
+          "size": 4872483
+        },
+        {
+          "name": "Transformas-BSSN-2025-2029",
+          "file": "Transformas-BSSN-2025-2029.pdf",
+          "path": "/vault/knowledge/technical-notes/Transformas-BSSN-2025-2029.pdf",
+          "folder": "knowledge/technical-notes",
+          "ext": ".pdf",
+          "size": 3021285
+        }
+      ]
+    },
+    "projects": [
+      {
+        "name": "AI Untuk Mitigasi Hoax",
+        "file": "AI Untuk Mitigasi Hoax.pdf",
+        "path": "/vault/projects/AI Untuk Mitigasi Hoax.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 9060651
+      },
+      {
+        "name": "Bersatu Melawan Covid-NextGen_TechDoc_V2",
+        "file": "Bersatu Melawan Covid-NextGen_TechDoc_V2.pdf",
+        "path": "/vault/projects/Bersatu Melawan Covid-NextGen_TechDoc_V2.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 10338565
+      },
+      {
+        "name": "CyberSec-Intelligence_Forum-BSSN-Berca-Concept_v1",
+        "file": "CyberSec-Intelligence_Forum-BSSN-Berca-Concept_v1.pdf",
+        "path": "/vault/projects/CyberSec-Intelligence_Forum-BSSN-Berca-Concept_v1.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 16911141
+      },
+      {
+        "name": "Hipnotis Tanpa Mikir",
+        "file": "Hipnotis Tanpa Mikir.pdf",
+        "path": "/vault/projects/Hipnotis Tanpa Mikir.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 8432689
+      },
+      {
+        "name": "Komand-99_System_Design_Architecture_V1",
+        "file": "Komand-99_System_Design_Architecture_V1.pdf",
+        "path": "/vault/projects/Komand-99_System_Design_Architecture_V1.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 14016717
+      },
+      {
+        "name": "Paparan_Roadmap_Pushansiber-2025-2028-V3-FINAL copy",
+        "file": "Paparan_Roadmap_Pushansiber-2025-2028-V3-FINAL copy.pdf",
+        "path": "/vault/projects/Paparan_Roadmap_Pushansiber-2025-2028-V3-FINAL copy.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 4747571
+      },
+      {
+        "name": "Smart Farming Indonesia",
+        "file": "Smart Farming Indonesia.pdf",
+        "path": "/vault/projects/Smart Farming Indonesia.pdf",
+        "folder": "projects",
+        "ext": ".pdf",
+        "size": 2478477
+      }
+    ],
+    "media": [
+      {
+        "name": "Deddy_FlatEarth_Office_1",
+        "file": "Deddy_FlatEarth_Office_1.jpg",
+        "path": "/vault/media/Deddy_FlatEarth_Office_1.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 618048
+      },
+      {
+        "name": "Deddy_FlatEarth_Office_2",
+        "file": "Deddy_FlatEarth_Office_2.jpg",
+        "path": "/vault/media/Deddy_FlatEarth_Office_2.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 724852
+      },
+      {
+        "name": "Deddy_FlatEarth_Office_3",
+        "file": "Deddy_FlatEarth_Office_3.jpg",
+        "path": "/vault/media/Deddy_FlatEarth_Office_3.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 704763
+      },
+      {
+        "name": "Deddy_FlatEarth_Office_4",
+        "file": "Deddy_FlatEarth_Office_4.jpg",
+        "path": "/vault/media/Deddy_FlatEarth_Office_4.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 649855
+      },
+      {
+        "name": "Deddy_Mercedez_1",
+        "file": "Deddy_Mercedez_1.jpg",
+        "path": "/vault/media/Deddy_Mercedez_1.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 740566
+      },
+      {
+        "name": "Deddy_Mercedez_2",
+        "file": "Deddy_Mercedez_2.jpg",
+        "path": "/vault/media/Deddy_Mercedez_2.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 773917
+      },
+      {
+        "name": "Deddy_Mercedez_3",
+        "file": "Deddy_Mercedez_3.jpg",
+        "path": "/vault/media/Deddy_Mercedez_3.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 769371
+      },
+      {
+        "name": "Deddy_Mercedez_4",
+        "file": "Deddy_Mercedez_4.jpg",
+        "path": "/vault/media/Deddy_Mercedez_4.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 816797
+      },
+      {
+        "name": "Deddy_Mercedez_5",
+        "file": "Deddy_Mercedez_5.jpg",
+        "path": "/vault/media/Deddy_Mercedez_5.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 765084
+      },
+      {
+        "name": "Deddy_Mercedez_6",
+        "file": "Deddy_Mercedez_6.jpg",
+        "path": "/vault/media/Deddy_Mercedez_6.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 769052
+      },
+      {
+        "name": "Deddy_Mercedez_7",
+        "file": "Deddy_Mercedez_7.jpg",
+        "path": "/vault/media/Deddy_Mercedez_7.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 736289
+      },
+      {
+        "name": "Deddy_Mercedez_8",
+        "file": "Deddy_Mercedez_8.jpg",
+        "path": "/vault/media/Deddy_Mercedez_8.jpg",
+        "folder": "media",
+        "ext": ".jpg",
+        "size": 836668
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Placeholder only. Never put confidential files under public/. Use vault-private/restricted/.\n

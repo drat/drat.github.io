@@ -1,0 +1,34 @@
+{
+  "wallpapers": [
+    {
+      "name": "FlatEarth 1",
+      "path": "/wallpapers/FlatEarth_1.webp",
+      "category": "Other"
+    },
+    {
+      "name": "FlatEarth 2",
+      "path": "/wallpapers/FlatEarth_2.webp",
+      "category": "Other"
+    },
+    {
+      "name": "FlatEarth 3",
+      "path": "/wallpapers/FlatEarth_3.webp",
+      "category": "Other"
+    },
+    {
+      "name": "FlatEarth 4",
+      "path": "/wallpapers/FlatEarth_4.webp",
+      "category": "Other"
+    },
+    {
+      "name": "FlatEarth 5",
+      "path": "/wallpapers/FlatEarth_5.webp",
+      "category": "Other"
+    },
+    {
+      "name": "FlatEarth 6",
+      "path": "/wallpapers/FlatEarth_6.webp",
+      "category": "Other"
+    }
+  ]
+}
